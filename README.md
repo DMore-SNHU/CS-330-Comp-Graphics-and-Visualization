@@ -1,4 +1,26 @@
-# \# CS-330: Computational Graphics and Visualization
+# \## Alchemy Table 3D Scene
+
+# 
+
+# My final project for CS-330 is a 3D Alchemy Table scene created using C++ and OpenGL. The scene includes custom 3D shapes, textures, lighting, camera controls, and transparent objects.
+
+# 
+
+# Due to GitHub's file size restrictions, I separated the project into two ZIP files:
+
+# 
+
+# \- \*\*Alchemy\_Table\_Code.zip\*\* — Contains the 3DShapes, Libraries, and Utilities folders.
+
+# \- \*\*Alchemy\_Table\_Scene.zip\*\* — Contains the Visual Studio project files and the completed 3D scene.
+
+# 
+
+# To reconstruct the project, extract both ZIP files and place the 3DShapes, Libraries, Utilities, and 7-1\_FinalProjectMilestones folders together in the same parent directory.
+
+# 
+
+# The Design Decisions document explains my approach to creating the scene and the decisions I made throughout development.
 
 
 
